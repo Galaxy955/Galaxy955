@@ -1,8 +1,8 @@
 # <p align="center">Hi 👋, I’m @Galaxy955</p>
 ### <p align="center">A student 👨‍🎓 of Chongqing University of Posts and Telecommunications.</p>
-- I'm learning Information Security at CQUPT
-- I'm interested in Software Engineering and Artificial Intelligence
-- How to reach me **2659029033@qq.com**
+- I'm learning Information Security at CQUPT.
+- I'm interested in Artificial Intelligence.
+- How to reach me? This is my e-mail: **2659029033@qq.com**
 ### Languages and Tools:
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" alt="C" width="40" height="40"/> </a>
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40" alt="Matlab" width="40" height="40"/> </a>
