@@ -26,7 +26,7 @@ I'm very interested in software development and artificial intelligence. I expec
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/200px-Qt_logo_2016.svg.png" style="height:45px">
 </p>
 
-## My usual platform
+## My commonly used platforms
 <p align="center">
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/apple.svg" style="height:45px">
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/windows.svg" style="height:45px">
