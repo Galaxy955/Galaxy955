@@ -13,15 +13,22 @@ I'm very interested in software development and artificial intelligence. I expec
 ## My familiar languages and tools
 
 <p align="center">
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" style="height:60px">
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/markdown.svg" style="height:60px">
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg" style="height:60px">
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/github_badge.svg" style="height:60px">
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/vim.svg" style="height:60px">
-  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/docker.svg" style="height:60px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/440px-Adobe_Photoshop_CC_icon.svg.png" style="height:60px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/128px-PyCharm_Icon.svg.png" style="height:60px">
-  <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3e/Xcode_12_logo.tiff/lossless-page1-128px-Xcode_12_logo.tiff.png" style="height:60px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conda_logo.svg/440px-Conda_logo.svg.png" style="height:60px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/200px-Qt_logo_2016.svg.png" style="height:60px">
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" style="height:45px">
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/markdown.svg" style="height:45px">
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/mysql.svg" style="height:45px">
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/github_badge.svg" style="height:45px">
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/vim.svg" style="height:45px">
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/docker.svg" style="height:45px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/440px-Adobe_Photoshop_CC_icon.svg.png" style="height:45px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/128px-PyCharm_Icon.svg.png" style="height:45px">
+  <img src="https://upload.wikimedia.org/wikipedia/zh/thumb/3/3e/Xcode_12_logo.tiff/lossless-page1-128px-Xcode_12_logo.tiff.png" style="height:45px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Conda_logo.svg/440px-Conda_logo.svg.png" style="height:45px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/200px-Qt_logo_2016.svg.png" style="height:45px">
 </p>
+
+## My usual platform
+<p align="center">
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/apple.svg" style="height:45px">
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/windows.svg" style="height:45px">
+  <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/ubuntu.svg" style="height:45px">
+ </p>
