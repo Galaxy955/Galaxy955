@@ -2,11 +2,11 @@
 
 ## Self-introduction
 
-I'm an undergraduate of <a href="http://sl.cqupt.edu.cn">School of Cyber Security and Information Law of Chongqing University of Posts and Telecommunications</a> and I'm majoring in **Information Security**.
+I'm an undergraduate of <a href="http://sl.cqupt.edu.cn">School of Cyber Security and Information Law of Chongqing University of Posts and Telecommunications</a> and majoring in **Information Security**.
 
 <p align="center"><img src="http://sl.cqupt.edu.cn/dfiles/6169/resource/pictures/home-logo.png"></p>
 
-I'm very interested in software development and artificial intelligence. I expect to work in related field in the future. Welcome to contact me through the following email.
+Interested in software development and artificial intelligence, I expect to work in related field in the future. Welcome to contact me through the following email.
 
 **<p align="center">📬 2659029033@qq.com</p>**
 
