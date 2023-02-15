@@ -10,7 +10,7 @@ Interested in software development and artificial intelligence, I expect to work
 
 **<p align="center">📬 2659029033@qq.com</p>**
 
-## My familiar languages and tools
+## Familiar languages and tools
 
 <p align="center">
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/python.svg" style="height:45px">
@@ -26,7 +26,7 @@ Interested in software development and artificial intelligence, I expect to work
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Qt_logo_2016.svg/200px-Qt_logo_2016.svg.png" style="height:45px">
 </p>
 
-## My commonly used platforms
+## Commonly used platforms
 <p align="center">
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/apple.svg" style="height:45px">
   <img src="https://github.com/vorillaz/devicons/blob/master/!SVG/windows.svg" style="height:45px">
